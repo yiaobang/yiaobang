@@ -1,9 +1,11 @@
 ## Hi there 👋
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiaoBang&show_icons=true&theme=transparent" /> 
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaoBang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+<div align="center" style="display: flex; justify-content: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=yiaoBang&show_icons=true&theme=transparent" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaoBang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  </div>
 </div>
 <!--
 **yiaoBang/yiaoBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
