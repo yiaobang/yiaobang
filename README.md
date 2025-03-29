@@ -12,5 +12,5 @@
 
 <p align="center">
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=highcontrast" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
 </p>
