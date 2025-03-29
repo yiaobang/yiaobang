@@ -1,10 +1,15 @@
 ## Hi there 👋
-<div style="display: flex; justify-content: center; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=transparent" 
-       style="width: 45%; height: auto; flex-grow: 1;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" 
-       style="width: 45%; height: auto; flex-grow: 1;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+    </td>
+  </tr>
+</table>
+
 
 
 
