@@ -1,8 +1,9 @@
 ## Hi there 👋
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=transparent" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 49%;" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=transparent" style="width: 45%; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="width: 45%; object-fit: contain;" />
 </div>
+
 <!--
 **yiaoBang/yiaoBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
