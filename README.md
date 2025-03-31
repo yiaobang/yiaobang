@@ -8,7 +8,7 @@
 </p>
 
    <p align="center" style="display: flex; justify-content: space-between; align-items: stretch;">
-     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
+     <img style="width: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
    </p>
    
 
