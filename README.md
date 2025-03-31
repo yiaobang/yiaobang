@@ -8,8 +8,7 @@
 </p>
 
    <p align="center" style="display: flex; justify-content: space-between; align-items: stretch;">
-     <img style="width: 49%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=yiaobang&show_icons=true&theme=highcontrast" />
-     <img style="width: 49%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=highcontrast" />
    </p>
    
 
