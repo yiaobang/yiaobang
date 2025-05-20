@@ -5,8 +5,9 @@
 <p align="center">
   🌏 Living in Japan | 🎓 Learning Japanese 
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Code.+Caffeine.+Chaos.;Powered+by+Kotlin.;Debugging+my+Japanese+and+my+life."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=I+code+therefore+I+am.;Sleep+is+for+the+weak.;Kotlin+is+my+spirit+animal.;My+bugs+have+features.;Living+the+404+life."/>
 </p>
 
 <p align="center">
