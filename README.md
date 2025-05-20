@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=Yiaobang's%20Code%20Zone&fontAlign=50&fontSize=40&animation=twinkling&desc=Powered%20by%20Kotlin%20and%20Caffeine&descSize=16&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=Yiaobang's%20Code%20Zone&fontAlign=50&fontSize=40&animation=twinkling&descSize=16&descAlign=50" />
 </p>
 <h1 align="center">Hi there, I'm Yiaobang 👋</h1>
 <p align="center">
