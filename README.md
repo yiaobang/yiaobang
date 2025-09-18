@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Yiaobang 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=radical&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaobang&layout=compact&langs_count=6&theme=radical&cache_seconds=120" />
 </p>
 
 
