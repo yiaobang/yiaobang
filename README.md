@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yiaobang's%20Code%20Zone&fontAlign=50&fontSize=40&animation=twinkling&descSize=16&descAlign=50" />
 </p>
 
-<h1 align="center">Hi there, I'm Yiaobang 👋</h1>
+<h1 align="center">Hi there, I'm Yiaobang 👋</h1> -->
 
 <!-- 动态打字机特效 -->
 <p align="center">
@@ -11,8 +11,8 @@
   </a>
 </p>
 
----
 
+<!-- 
 ### 💫 About Me
 
 - 🚀 **技术专注**：专注于构建健壮的后端系统与现代化的跨平台 UI 架构。
@@ -20,7 +20,7 @@
 - 🎯 **代码哲学**：用严谨的逻辑去重构世界，追求清晰的架构与优雅的代码解法。
 
 ---
-
+ -->
 ### 🛠️ Tech Stack & Tools
 
 <table align="center" width="100%">
