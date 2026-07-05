@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Yiaobang 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&width=600&lines=Backend+Developer;Java+Enthusiast;Always+Learning+🚀" />
+  <strong>Backend Developer | Java & Kotlin Enthusiast | Always Learning 🚀</strong>
 </p>
 
 ---
